@@ -19,7 +19,7 @@ div {
   display: block;
 }
 
-#sidebar {
+#sidebar > li {
   position: fixed;
   width: 300px;
   left: 0;
