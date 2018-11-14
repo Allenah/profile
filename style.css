@@ -19,7 +19,7 @@ div {
   display: block;
 }
 
-#sidebar > li {
+#sidebar {
   position: fixed;
   width: 120px;
   left: 0;
@@ -27,6 +27,16 @@ div {
   bottom: 0;
   background-color: #45b7b8;
   text-align: center;
+}
+
+#sidebar li {
+  margin-top: 50px;
+  margin-bottom: 50px:
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
 }
 
 #sidebar ul {
