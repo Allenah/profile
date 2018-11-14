@@ -25,10 +25,10 @@ div {
   left: 0;
   top: 0;
   bottom: 0;
-  color: #45b7b8;
+  background-color: #45b7b8;
 }
 
-#content {
+#page-content {
   margin-left: 120px;
 }
 /* Grouping Selector */
