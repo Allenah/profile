@@ -29,6 +29,11 @@ div {
   text-align: center;
 }
 
+#sidebar ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
 #page-content {
   margin-left: 120px;
 }
