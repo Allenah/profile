@@ -18,6 +18,14 @@ body {
 div {
   display: block;
 }
+
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
 /* Grouping Selector */
 h1, h2, h3 {
   color: #45b7b8;
