@@ -13,7 +13,7 @@ body {
 body {
    background-image: url("images/background.jpg");
    background-color: #cccccc;
-   background-width: 100%;
+   background-size: 100%;
 }
 
 div {
