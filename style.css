@@ -51,6 +51,9 @@ a:hover {
     padding: 10px;
     border-radius: 4px;
 }
+#cover {
+  background-size: cover
+}
 
 #profile {
   width: 200px;
