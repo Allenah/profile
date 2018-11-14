@@ -27,6 +27,10 @@ div {
   bottom: 0;
   color: #45b7b8;
 }
+
+#content {
+  margin-left: 120px;
+}
 /* Grouping Selector */
 h1, h2, h3 {
   color: #45b7b8;
