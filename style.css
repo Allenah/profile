@@ -21,7 +21,7 @@ div {
 
 #sidebar {
   position: fixed;
-  width: 120px;
+  width: 100px;
   left: 0;
   top: 0;
   bottom: 0;
@@ -45,7 +45,7 @@ li {
 }
 
 #page-content {
-  margin-left: 120px;
+  margin-left: 100px;
 }
 /* Grouping Selector */
 h1, h2, h3 {
